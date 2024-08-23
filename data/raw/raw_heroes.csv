@@ -1,0 +1,16 @@
+hero_id;name;email;birthdate;birthplace;workplace;gender;gender_identity;sexual_orientation;ethnicity;_ts_carga_raw
+5;Batman;bruce@wayneenterprises.com;1939-05-27;Gotham, USA;Wayne Enterprises;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+6;Wonder Woman;diana@themyscira.com;3000 BC;Themyscira;Themyscira Embassy;Female;Cisgender;Heterosexual;Amazonian;2024-08-22 22:35:37.334570
+7;Superman;clark@dailyplanet.com;1978-02-29;Krypton;Daily Planet;Male;Cisgender;Heterosexual;Kryptonian;2024-08-22 22:35:37.334570
+8;The Flash;barry@ccpd.com;1990-03-14;Central City, USA;Central City Police Department;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+9;Shimmer;shimmer@universalsource.com;1995-04-20;Mystic Falls;Universal Source;Female;Non-binary;Bisexual;Asian;2024-08-22 22:35:37.334570
+13;Aquaman;arthur@atlantis.com;1986-01-29;Atlantis;Atlantis;Male;Cisgender;Heterosexual;Atlantean;2024-08-22 22:35:37.334570
+14;Green Lantern;hal@justiceleague.com;1976-07-20;Coast City, USA;Justice League HQ;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+15;Cyborg;victor@titans.com;1995-06-15;Detroit, USA;Titans Tower;Male;Cisgender;Heterosexual;African American;2024-08-22 22:35:37.334570
+1;Iron Man;tony@starkindustries.com;1970-05-29;Long Island, USA;Stark Tower;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+2;Captain America;steve@avengers.com;1918-07-04;Brooklyn, USA;Avengers HQ;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+3;Black Widow;natasha@shield.com;1984-11-22;Stalingrad, Russia;SHIELD;Female;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+4;Spider-Man;peter@dailybugle.com;2001-08-10;Queens, USA;Daily Bugle;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+10;Hulk;bruce@bannerlabs.com;1969-12-18;Dayton, USA;Banner Labs;Male;Cisgender;Heterosexual;Caucasian;2024-08-22 22:35:37.334570
+11;Thor;thor@asgard.com;1000-01-01;Asgard;Asgard;Male;Cisgender;Heterosexual;Asgardian;2024-08-22 22:35:37.334570
+12;Scarlet Witch;wanda@avengers.com;1989-02-10;Sokovia;Avengers HQ;Female;Cisgender;Heterosexual;Sokovian;2024-08-22 22:35:37.334570

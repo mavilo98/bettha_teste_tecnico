@@ -1,0 +1,9 @@
+hero_id,name,email,birthdate,birthplace,workplace,gender,gender_identity,sexual_orientation,ethnicity
+5,Batman,bruce@wayneenterprises.com,1939-05-27,"Gotham, USA",Wayne Enterprises,Male,Cisgender,Heterosexual,Caucasian
+6,Wonder Woman,diana@themyscira.com,3000 BC,Themyscira,Themyscira Embassy,Female,Cisgender,Heterosexual,Amazonian
+7,Superman,clark@dailyplanet.com,1978-02-29,Krypton,Daily Planet,Male,Cisgender,Heterosexual,Kryptonian
+8,The Flash,barry@ccpd.com,1990-03-14,"Central City, USA",Central City Police Department,Male,Cisgender,Heterosexual,Caucasian
+9,Shimmer,shimmer@universalsource.com,1995-04-20,Mystic Falls,Universal Source,Female,Non-binary,Bisexual,Asian
+13,Aquaman,arthur@atlantis.com,1986-01-29,Atlantis,Atlantis,Male,Cisgender,Heterosexual,Atlantean
+14,Green Lantern,hal@justiceleague.com,1976-07-20,"Coast City, USA",Justice League HQ,Male,Cisgender,Heterosexual,Caucasian
+15,Cyborg,victor@titans.com,1995-06-15,"Detroit, USA",Titans Tower,Male,Cisgender,Heterosexual,African American

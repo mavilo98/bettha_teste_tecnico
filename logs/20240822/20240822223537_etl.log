@@ -1,0 +1,32 @@
+2024-08-22 22:35:37,187 - INFO - Carregando dados de heroes da camama landing.
+2024-08-22 22:35:37,187 - INFO - Arquivos a serem processados: ['data/landing/dc/dc_heroes.csv', 'data/landing/marvel/marvel_heroes.csv'].
+2024-08-22 22:35:37,228 - INFO - Integrando os dados de heroes.
+2024-08-22 22:35:37,229 - INFO - Carregando dados de missions da camama landing.
+2024-08-22 22:35:37,229 - INFO - Arquivos a serem processados: ['data/landing/dc/dc_missions.csv', 'data/landing/marvel/marvel_missions.csv'].
+2024-08-22 22:35:37,259 - INFO - Integrando os dados de missions.
+2024-08-22 22:35:37,259 - INFO - Carregando dados de skills da camama landing.
+2024-08-22 22:35:37,260 - INFO - Arquivos a serem processados: ['data/landing/dc/dc_skills.csv', 'data/landing/marvel/marvel_skills.csv'].
+2024-08-22 22:35:37,281 - INFO - Integrando os dados de skills.
+2024-08-22 22:35:37,281 - INFO - Carregando dados de super_powers da camama landing.
+2024-08-22 22:35:37,281 - INFO - Arquivos a serem processados: ['data/landing/dc/dc_super_powers.csv', 'data/landing/marvel/marvel_super_powers.csv'].
+2024-08-22 22:35:37,303 - INFO - Integrando os dados de super_powers.
+2024-08-22 22:35:37,303 - INFO - Carregando dados de villains da camama landing.
+2024-08-22 22:35:37,303 - INFO - Arquivos a serem processados: ['data/landing/dc/dc_villains.csv', 'data/landing/marvel/marvel_villains.csv'].
+2024-08-22 22:35:37,330 - INFO - Integrando os dados de villains.
+2024-08-22 22:35:37,331 - INFO - Removendo duplicatas dos dados de {x}.
+2024-08-22 22:35:37,333 - INFO - Removendo duplicatas dos dados de {x}.
+2024-08-22 22:35:37,336 - INFO - Salvando os dados transformados de heroes em data/raw/raw_heroes.csv.
+2024-08-22 22:35:37,353 - INFO - Salvando os dados transformados de missions em data/raw/raw_missions.csv.
+2024-08-22 22:35:37,355 - INFO - Salvando os dados transformados de skills em data/raw/raw_skills.csv.
+2024-08-22 22:35:37,357 - INFO - Salvando os dados transformados de super_powers em data/raw/raw_super_powers.csv.
+2024-08-22 22:35:37,361 - INFO - Salvando os dados transformados de villains em data/raw/raw_villains.csv.
+2024-08-22 22:35:37,782 - INFO - Tabela heroes salva como dim em data/trusted/trusted_heroes.parquet.
+2024-08-22 22:35:37,808 - INFO - Tabela missions salva como fato em data/trusted/trusted_missions.parquet.
+2024-08-22 22:35:37,835 - INFO - Tabela skills salva como dim em data/trusted/trusted_skills.parquet.
+2024-08-22 22:35:37,860 - INFO - Tabela super_powers salva como dim em data/trusted/trusted_super_powers.parquet.
+2024-08-22 22:35:37,880 - INFO - Tabela villains salva como dim em data/trusted/trusted_villains.parquet.
+2024-08-22 22:35:38,405 - INFO - Tabela dimensão skills salva em parquet, sem transformações, com sucesso na camada analytics.
+2024-08-22 22:35:38,421 - INFO - Tabela dimensão super_powers salva em parquet, sem transformações, com sucesso na camada analytics.
+2024-08-22 22:35:38,435 - INFO - Tabela dimensão villains salva em parquet, sem transformações, com sucesso na camada analytics.
+2024-08-22 22:35:38,459 - INFO - Tabela fact_missions salva em parquet com sucesso na camada analytics.
+2024-08-22 22:35:38,497 - INFO - Tabela dim_heroes salva em parquet com sucesso.

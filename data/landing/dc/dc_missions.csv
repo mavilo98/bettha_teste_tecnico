@@ -1,0 +1,9 @@
+mission_id,hero_id,mission_name,is_squad_leader,start_date,end_date,is_ongoing,most_required_skill_id,target_villain_id
+9,5,Gotham Crime Syndicate,True,2018-07-17,2018-07-18,False,9,9
+10,6,Cheetah’s Challenge,True,2019-03-01,2019-03-02,False,10,10
+11,7,Battle for Metropolis,True,2016-06-20,2016-06-21,False,11,11
+12,8,Speed Force Intrusion,True,2020-11-05,2020-11-05,False,12,12
+5,9,The Universal Threat,True,2024-04-10,,True,5,5
+13,13,Atlantis Under Attack,True,2022-01-01,2022-01-02,False,13,13
+14,14,War of the Lanterns,True,2021-09-15,2021-09-16,False,14,14
+15,15,Darkseid Invasion,True,2024-02-01,,True,15,15

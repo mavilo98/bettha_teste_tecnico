@@ -1,0 +1,9 @@
+hero_id,name,email,birthdate,birthplace,workplace,gender,gender_identity,sexual_orientation,ethnicity
+1,Iron Man,tony@starkindustries.com,1970-05-29,"Long Island, USA",Stark Tower,Male,Cisgender,Heterosexual,Caucasian
+2,Captain America,steve@avengers.com,1918-07-04,"Brooklyn, USA",Avengers HQ,Male,Cisgender,Heterosexual,Caucasian
+3,Black Widow,natasha@shield.com,1984-11-22,"Stalingrad, Russia",SHIELD,Female,Cisgender,Heterosexual,Caucasian
+4,Spider-Man,peter@dailybugle.com,2001-08-10,"Queens, USA",Daily Bugle,Male,Cisgender,Heterosexual,Caucasian
+9,Shimmer,shimmer@universalsource.com,1995-04-20,Mystic Falls,Universal Source,Female,Non-binary,Bisexual,Asian
+10,Hulk,bruce@bannerlabs.com,1969-12-18,"Dayton, USA",Banner Labs,Male,Cisgender,Heterosexual,Caucasian
+11,Thor,thor@asgard.com,1000-01-01,Asgard,Asgard,Male,Cisgender,Heterosexual,Asgardian
+12,Scarlet Witch,wanda@avengers.com,1989-02-10,Sokovia,Avengers HQ,Female,Cisgender,Heterosexual,Sokovian

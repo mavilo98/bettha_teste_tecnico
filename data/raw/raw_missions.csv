@@ -1,0 +1,16 @@
+mission_id;hero_id;mission_name;is_squad_leader;start_date;end_date;is_ongoing;most_required_skill_id;target_villain_id;_ts_carga_raw
+9;5;Gotham Crime Syndicate;True;2018-07-17;2018-07-18;False;9;9;2024-08-22 22:35:37.353126
+10;6;Cheetah’s Challenge;True;2019-03-01;2019-03-02;False;10;10;2024-08-22 22:35:37.353126
+11;7;Battle for Metropolis;True;2016-06-20;2016-06-21;False;11;11;2024-08-22 22:35:37.353126
+12;8;Speed Force Intrusion;True;2020-11-05;2020-11-05;False;12;12;2024-08-22 22:35:37.353126
+5;9;The Universal Threat;True;2024-04-10;;True;5;5;2024-08-22 22:35:37.353126
+13;13;Atlantis Under Attack;True;2022-01-01;2022-01-02;False;13;13;2024-08-22 22:35:37.353126
+14;14;War of the Lanterns;True;2021-09-15;2021-09-16;False;14;14;2024-08-22 22:35:37.353126
+15;15;Darkseid Invasion;True;2024-02-01;;True;15;15;2024-08-22 22:35:37.353126
+1;1;Battle of New York;True;2012-05-04;2012-05-05;False;1;1;2024-08-22 22:35:37.353126
+2;2;WWII Hydra Base;True;1943-03-01;1943-03-02;False;2;2;2024-08-22 22:35:37.353126
+3;3;SHIELD Espionage;False;2010-07-16;2010-07-20;False;3;3;2024-08-22 22:35:37.353126
+4;4;Defending Queens;False;2021-08-14;2021-08-14;False;4;4;2024-08-22 22:35:37.353126
+6;10;Gamma Experiments;False;2020-11-30;2020-12-01;False;6;6;2024-08-22 22:35:37.353126
+7;11;Ragnarok;True;2017-11-03;2017-11-04;False;7;7;2024-08-22 22:35:37.353126
+8;12;Sokovia Uprising;True;2015-05-01;2015-05-02;False;8;8;2024-08-22 22:35:37.353126
